@@ -16,8 +16,8 @@ namespace UnderGround.Models
 
         public void Action()
         {
-            //Heal player 
-            //Put meeple
+            //Heal player pe
+            //Put meeple b
         }
     }
 }
